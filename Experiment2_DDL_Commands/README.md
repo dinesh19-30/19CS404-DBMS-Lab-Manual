@@ -104,23 +104,32 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
---
--- Paste Question 1 here
+
+Create a table named Events with the following columns:
+
+EventID as INTEGER
+EventName as TEXT
+EventDate as DATE
 
 ```sql
--- Paste your SQL code below for Question 1
+CREATE TABLE Events(
+EventID INTEGER,
+EventName TEXT,
+EventDate  DATE);
 ```
 
 **Output:**
+![out1](https://github.com/user-attachments/assets/041c5bb4-ef81-4456-888c-b505282adb55)
 
-![Output1](output.png)
 
 **Question 2**
----
--- Paste Question 2 here
+Write an SQL query to add two new columns, department_id and manager_id, to the table employee with datatype of INTEGER. The manager_id column should have a default value of NULL.
 
 ```sql
--- Paste your SQL code below for Question 2
+ALTER TABLE employee
+ADD COLUMN department_id INTEGER;
+ALTER TABLE employee
+ADD COLUMN manager_id INTEGER DEFAULT NULL;
 ```
 
 **Output:**
