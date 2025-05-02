@@ -38,9 +38,7 @@ Design a database to manage students, instructors, programs, courses, and studen
 Hospital
 
 ## ER Diagram:
-![EXP 1](https://github.com/user-attachments/assets/e6458059-02a9-424f-b43b-2886f25fe5c9)
-
-
+![image](https://github.com/user-attachments/assets/ab9caf1f-c907-4c1d-8b7e-1b4b0acd4355)
 
 Here’s the complete structured answer for the **Hospital Appointment** ERD diagram you provided:
 
