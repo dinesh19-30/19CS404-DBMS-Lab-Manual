@@ -204,7 +204,8 @@ AND OUTSTANDING_AMT<5000;
 
 **Output:**
 
-![Output6](output.png)
+![Output6]![image](https://github.com/user-attachments/assets/6a71fdcd-2ecb-4a1e-a1ea-7f2a32bdf8ae)
+
 
 **Question 7**
 ---
