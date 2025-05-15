@@ -450,6 +450,5 @@ WHERE o.purch_amt BETWEEN 500 AND 2000;
 ![image](https://github.com/user-attachments/assets/7bbdd9f7-7594-4437-ac9e-2381e219b681)
 
 
-
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
